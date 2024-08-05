@@ -17,7 +17,7 @@ spec:
       source:
         repoURL: https://github.com/argoproj/argocd-example-apps.git
         targetRevision: master
-        path: blue-green
+        path: sync-waves
       destination:
         server: '{{.url}}'
         namespace: gmuselli
