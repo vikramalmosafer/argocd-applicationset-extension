@@ -1,6 +1,6 @@
 # Application set extension
 
-An extension to use with Applicationset in order to easily identify the number applications and their status
+##An extension to use with Applicationset in order to easily identify the number applications and their status
 
 ![extension](./images/applicationset-extension.png)
 
